@@ -7,6 +7,6 @@ This is the homepage of a software engineer
 
 - [Baetyl](https://github.com/baetyl/baetyl): an open platform of edge computing
 
-## My Contact
+## My Contact Information
 
 - WeChat: killucs
